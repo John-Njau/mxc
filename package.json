@@ -7,8 +7,17 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@highcharts/map-collection": "^2.0.1",
+    "@syncfusion/ej2-charts": "^20.2.43",
+    "bulma": "^0.9.4",
+    "chart.js": "^3.9.1",
     "core-js": "^3.8.3",
+    "highcharts": "^10.2.0",
+    "highcharts-vue": "^1.4.0",
+    "jquery": "^3.6.0",
     "vue": "^2.6.14",
+    "vue-chartjs": "^4.1.1",
+    "vue-pie-chart": "^1.1.0",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"
   },
